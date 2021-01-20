@@ -1,0 +1,16 @@
+header {
+    font-size: 1.125rem;
+}
+
+ul {
+    list-style: none;
+}
+
+.navbar-nav .nav-link {
+    padding: 1rem !important;
+    white-space: nowrap;
+}
+
+.nav-item.hidden {
+    display: none;
+}
